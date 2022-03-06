@@ -1,5 +1,5 @@
 # simple-rust-psktls-server
-this project shows how to create a simple psk-tls(tls1.2) server based on openssl
+this project shows how to create a simple tcp psk-tls(tls1.2) server based on openssl
 
 # system info
 - Tested in Windows11 WSL2 Ubuntu-18.04 
